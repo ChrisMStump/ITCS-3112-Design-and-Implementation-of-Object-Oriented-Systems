@@ -1,0 +1,6 @@
+Customer Name: Chris
+Customer Phone:704-698-6959
+Number of Guests: 50
+Chosen Entree: Fiesta Salad
+Chosen Sides: Sides: Pasta Salad House Salad 
+Chosen Desert: Grape Salad

@@ -1,0 +1,1 @@
+A program formatted with JavaFX that calculates a tip.

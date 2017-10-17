@@ -1,0 +1,1 @@
+A lab to better help understand inheritance.
